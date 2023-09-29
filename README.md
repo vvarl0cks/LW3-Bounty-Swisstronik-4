@@ -10,8 +10,8 @@
 - Transfer at least 1 of your ERC20 tokens to 0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1   
 
 ## Hints:
-- You can follow our guide to deploy smart contracts with Hardhat   
-- Use SwisstronikJS (encryptDataField function) to interact with your deployed smart contract. Check the Transaction - code sample for guidance.     
+- You can follow our [guide](https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat) to deploy smart contracts with Hardhat   
+- Use SwisstronikJS (encryptDataField function) to interact with your deployed smart contract. [Check the Transaction - code sample for guidance.](https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat/5.-interact-with-the-contract-transaction)     
 
 # Deploy   
 
@@ -24,7 +24,6 @@ deployed to 0x455A58369F3e6106fc632C0620b63B0c8e3E5EDF
 # Contract   
 
 - Deployed Contract https://explorer-evm.testnet.swisstronik.com/address/0x455A58369F3e6106fc632C0620b63B0c8e3E5EDF   
-- Explorer : https://explorer-evm.testnet.swisstronik.com/address/0x455A58369F3e6106fc632C0620b63B0c8e3E5EDF   
 - Mint Token : https://explorer-evm.testnet.swisstronik.com/tx/0x03dc20a40230c7c960ec1b8c9489ec007090d1cbb19504b53b930aabc8056965   
 - Transfer Token: https://explorer-evm.testnet.swisstronik.com/tx/0xf5ea74be08cc99407a8c4c8c61678295bcb76f8d1500602d3baec659f2eaba10   
 
